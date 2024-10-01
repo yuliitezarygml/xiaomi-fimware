@@ -1,3 +1,1 @@
-<form action="https://github.com/yuliitezarygml/xiaomi-fimware/releases">
-    <input type="submit" value="прошыфка" />
-</form>
+<a href="https://google.com" class="button">Go to Google</a>
