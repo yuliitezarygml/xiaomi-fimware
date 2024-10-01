@@ -1,0 +1,22 @@
+Adb Installer for Windows by PacApps (t.me/PacApps). Adb&Fastboot r29.0.6.
+
+To install run istall_en.bat as administrator
+
+Changelog:
+
+2.1 (13.4.20):
+Some optimizations
+Uncompress
+Only universal builds
+2.0 (12.4.20):
+Driver installation fixed
+x86 and x64 versions
+7zip compressing
+Update Adb&Fastboot to r29.0.6
+Install to C:\Program Files\adb instead of C:\adb
+
+1.1 (10.2.20) - driver installation added
+1.0 (8.2.20) - first version
+
+Donate:
+Yandex Money - 410015651061802
