@@ -1,1 +1,1 @@
-<a href="https://google.com" class="button">Go to Google</a>
+<a href="https://github.com/yuliitezarygml/xiaomi-fimware/releases" class="button">Go to Google</a>
